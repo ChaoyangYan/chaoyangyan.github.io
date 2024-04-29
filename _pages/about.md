@@ -16,16 +16,25 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# About me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a second-year doctoral student at Centre for Bioinformatics and Intelligent Medicine ([**BioAIMed Lab**](https://bio.nankai.edu.cn/)), **Nankai University**, supervised by Prof. [Jian Liu](http://bio.nankai.edu.cn/profiles/liu.html). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research lies at the intersection of artificial intelligence and healthcare. I mainly focus on computational pathology and multi-omics data analysis. My objective is to develop advanced AI techniques from the perspective of bio-computing to enhance in-depth cancer research.
+
+I received my B.S. and master degree in control science and engineering from Nanjing University of Information Science & Technology (NUIST), China. I was supervised by Prof. [Jun Xu](https://faculty.nuist.edu.cn/jxu/zh_CN/index.htm) during my postgraduate period.
+
+I once worked in [Zhejiang Dahua Technology Co., Ltd.](https://www.dahuatech.com/) for one year as an full-time algorithm engineer in 2021.
+
+Now, I have started a new journey (a journey full of glory and dreams) and I believe everything will be fine.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04*: &nbsp;🎉🎉 One paper was aceepted by [ISMB 2024](https://www.iscb.org/ismb2024/home) (Acc. Rate: 18.2%)
+- *2023.07*: &nbsp;🎉🎉 A presentation was made at Northeastern University, Shenyang, China 
+- *2022.09*: &nbsp;🎉🎉 A new journey was started in Nankai University, Tianjin, China 
 
+# Under construction...
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
