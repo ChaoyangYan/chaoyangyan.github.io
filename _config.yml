@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chaoyang Yan (闫朝阳)"
+title                    : "ChaoyangYan (闫朝阳)"
 description              : "Doctoral student at Nankai University. "
 repository               : "ChaoyangYan/chaoyangyan.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chaoyang Yan (闫朝阳)"
-  avatar           : "images/me.png"
+  name             : "ChaoyangYan (闫朝阳)"
+  avatar           : "images/me.jpg"
   bio              : "Nankai University"
   location         : "Tianjin, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/gatsby2016 # e.g., "github username"
+  github           : gatsby2016
   google_plus      : 
   keybase          :
   instagram        :
