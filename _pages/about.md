@@ -18,15 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About me
 
-I am currently a second-year doctoral student at Centre for Bioinformatics and Intelligent Medicine ([**BioAIMed Lab**](https://bio.nankai.edu.cn/)), Nankai University, supervised by Prof. [Jian Liu](http://bio.nankai.edu.cn/profiles/liu.html). 
+I am currently a second-year doctoral student at Centre for Bioinformatics and Intelligent Medicine ([**BioAIMed Lab**](http://bio.nankai.edu.cn/)), Nankai University, supervised by Prof. [Jian Liu](http://bio.nankai.edu.cn/profiles/liu.html). 
 
 My research lies at the intersection of artificial intelligence and healthcare. I mainly focus on computational pathology and multi-omics data analysis. My objective is to develop advanced AI techniques to enhance in-depth cancer research.
 
-I received my B.S. and master degree in control science and engineering from Nanjing University of Information Science & Technology (NUIST), China. I was supervised by Prof. [Jun Xu](https://faculty.nuist.edu.cn/jxu/zh_CN/index.htm) during my postgraduate period.
+I received my bachelor and master degree in control science and engineering from Nanjing University of Information Science & Technology (NUIST), China. I was supervised by Prof. [Jun Xu](https://faculty.nuist.edu.cn/jxu/zh_CN/index.htm) during my postgraduate period.
 
 I once worked in [Zhejiang Dahua Technology Co., Ltd.](https://www.dahuatech.com/) for one year as an full-time algorithm engineer in 2021.
 
-Now, I have started a new journey (a journey full of glory and dreams) and I believe everything will be fine. If you’re interested in my work or encounter any research problems, please feel free to [contact me](cyyan@mail.nankai.edu.cn). 
+Now, I have started a new journey (a journey full of glory and dreams) and I believe everything will be fine. If you’re interested in my work or encounter any research problems, please feel free to [contact me](mailto:cyyan@mail.nankai.edu.cn). 
 
 
 # 🔥 News
@@ -52,9 +52,9 @@ PhiHER2 is a phenotype-informed multiple instance learning architecture for the 
 
 [**Fundamental Research 2022**]
 **Deep learning framework for comprehensive molecular and prognostic stratifications of triple-negative breast cancer**    
-Shen Zhao*, **Chaoyang Yan\***, Hong Lv*, et.al     
+Shen Zhao\*, **Chaoyang Yan\***, Hong Lv\*, et.al     
 [[Paper](https://doi.org/10.1016/j.fmre.2022.06.008)]  
-A deep learning-based framework was devised for comprehensive predictions of molecular features, subtypes and prognosis from pathological WSIs. It enables comprehensive stratifications of TNBC patients and provide valuable information for therapeutic decision-making.
+A deep learning-based framework is devised for comprehensive predictions of molecular features, subtypes and prognosis from pathological WSIs. It enables comprehensive stratifications of TNBC patients and provide valuable information for therapeutic decision-making.
 </div>
 </div>
 
@@ -69,18 +69,44 @@ S2aNet is the first model to achieve 3D dense segmentation for 54 organs and mus
 </div>
 </div>
 
-# Under construction...
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2020</div><img src='images/ISBI2020_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ISBI 2020**]
+**Prior-aware CNN with multi-task learning for colon images analysis**    
+**Chaoyang Yan**, Jun Xu, Jiawei Xie, Chengfei Cai, Haoda Lu     
+[[Paper](https://doi.org/10.1109/ISBI45749.2020.9098703)][[Code](https://github.com/gatsby2016/Pathological-Multi-Task-on-Prior)]<img src="https://img.shields.io/github/stars/gatsby2016/Pathological-Multi-Task-on-Prior?style=social"/>  
+A prior-aware CNN framework with multi-task learning is proposed for automatic gland segmentation and images grading diagnosis simultaneously. It makes pathological image analysis more applicable and interpretable inspired by the clinical pathological diagnostic criteria.    
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMPB 2020</div><img src='images/CMPB2020_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Computer Methods and Programs in Biomedicine 2020**]
+**Automated gleason grading on prostate biopsy slides by statistical representations of homology profile**    
+**Chaoyang Yan**, Kazuaki Nakane, Xiangxue Wang, et.al       
+[[Paper](https://doi.org/10.1016/j.cmpb.2020.105528)]      
+SRHP is a novel Statistical Representation of Homology Profile approach for automated Gleason grading on prostate biopsy slides. It captures the topological characteristics and the degree of connectivity between nuclei around the gland. These characteristics of homology profile are interpretable, visually meaningful and highly consistent with the rubric employed by pathologists.     
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2020.12* National Scholarship by Ministry of Education of China.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - now*, Nankai University (NKU), Computer science and technology, doctor's degree.     
+- *2018.09 - 2021.06*, Nanjing University of Information Science & Technology (NUIST), Control science and engineering, master's degree.     
+- *2014.09 - 2018.06*, NUIST, Measurement and control technology and instrumentation, bachelor's degree.    
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Open Projects
+- [[Augmentation-PyTorch-Transforms](https://github.com/gatsby2016/Augmentation-PyTorch-Transforms)]<img src="https://img.shields.io/github/stars/gatsby2016/Augmentation-PyTorch-Transforms?style=social"/>    
+Image data augmentation on-the-fly by adding new class on transforms in PyTorch and torchvision, for Computational Pathology.
+- [[FeatsVisDL](https://github.com/gatsby2016/FeatsVisDL)]<img src="https://img.shields.io/github/stars/gatsby2016/FeatsVisDL?style=social"/>
+Attention \& Saliency maps and features visualization for deep learning models in pytorch.
+- [[Fast-WSI-Prediction](https://github.com/gatsby2016/Fast-WSI-Prediction)]<img src="https://img.shields.io/github/stars/gatsby2016/Fast-WSI-Prediction?style=social"/>
+Unofficial implementation for ScanNet (a fast WSI prediction method, [paper](https://ieeexplore.ieee.org/abstract/document/8354169/)) in PyTorch.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Personal
+- TBD.
