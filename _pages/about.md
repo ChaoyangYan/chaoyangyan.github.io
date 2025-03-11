@@ -42,9 +42,7 @@ Now, I have started a new journey (a journey full of glory and dreams) and I bel
 [**ISMB 2024**]
 **PhiHER2: Phenotype-informed weakly supervised model for HER2 status prediction from pathological images**    
 **Chaoyang Yan**, Jialiang Sun, Yiming Guan, Jiuxin Feng, Hong Liu, Jian Liu    
-[[Paper](https://doi.org/10.1093/bioinformatics/btae236
-        
-        )][[Code](https://github.com/gatsby2016/PhiHER2)]<img src="https://img.shields.io/github/stars/gatsby2016/PhiHER2?style=social"/>    
+[[Paper](https://doi.org/10.1093/bioinformatics/btae236)][[Code](https://github.com/gatsby2016/PhiHER2)]<img src="https://img.shields.io/github/stars/gatsby2016/PhiHER2?style=social"/>    
 PhiHER2 is a phenotype-informed multiple instance learning architecture for the prediction of the HER2 molecular status from pathological images of breast cancer. It provides valuable insights into the heterogeneity of morphological patterns associated with molecular biomarkers.
 </div>
 </div>
@@ -55,9 +53,7 @@ PhiHER2 is a phenotype-informed multiple instance learning architecture for the 
 [**Fundamental Research 2022**]
 **Deep learning framework for comprehensive molecular and prognostic stratifications of triple-negative breast cancer**    
 Shen Zhao\*, **Chaoyang Yan\***, Hong Lv\*, et.al     
-[[Paper](https://doi.org/10.1016/j.fmre.2022.06.008
-        
-        )]  
+[[Paper](https://doi.org/10.1016/j.fmre.2022.06.008)]  
 A deep learning-based framework is devised for comprehensive predictions of molecular features, subtypes and prognosis from pathological WSIs. It enables comprehensive stratifications of TNBC patients and provide valuable information for therapeutic decision-making.
 </div>
 </div>
