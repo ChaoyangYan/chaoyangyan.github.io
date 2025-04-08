@@ -30,11 +30,23 @@ Now, I have started a new journey (a journey full of glory and dreams) and I bel
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One paper was aceepted by [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home) (Acc. Rate: 17.5%)
 - *2024.04*: &nbsp;🎉🎉 One paper was aceepted by [ISMB 2024](https://www.iscb.org/ismb2024/home) (Acc. Rate: 18.2%)
 - *2023.07*: &nbsp;🎉🎉 A presentation was made at Northeastern University, Shenyang, China 
-- *2022.09*: &nbsp;🎉🎉 A new journey was started in Nankai University, Tianjin, China 
+- *2022.09*: &nbsp; A new journey was started in Nankai University, Tianjin, China 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMB/ECCB 2025</div><img src='images/ISMB2025_CUCA_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ISMB/ECCB 2025**]
+**Predicting fine-grained cell types from histology images through cross-modal learning in spatial transcriptomics**    
+**Chaoyang Yan**, Zhihan Ruan, Songkang Chen, Yichen Pan, Xue Han, Yuanyu Li, Jian Liu    
+[[Paper: TBD](https://cyyan.cn/)][[Code](https://github.com/lyotvincent/CUCA)]<img src="https://img.shields.io/github/stars/lyotvincent/CUCA?style=social"/>    
+A cross-modal unified representation learning framework (CUCA) is proposed for identifying fine-grained cell types from histology images. CUCA is trained on paired morphology-molecule spatial transcriptomics data, enabling it to infer fine-grained cell abundances solely from pathology images.   
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMB 2024</div><img src='images/ISMB2024_PhiHER2_main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -109,4 +121,5 @@ Attention \& Saliency maps and features visualization for deep learning models i
 Unofficial implementation for ScanNet (a fast WSI prediction method, [paper](https://ieeexplore.ieee.org/abstract/document/8354169/)) in PyTorch.
 
 # 💬 Personal
-- 🏃‍♂ Running: 2024HUZHOU MARATHON, Finish Achievement 1h55min (21.0975km). 
+- 🏃‍♂ Running: YANGZHOU JIANZHEN HALF MARATHON 2025, Finish Achievement 1h50min (21.0975km). 
+- 🏃‍♂ Running: HUZHOU MARATHON 2024, Finish Achievement 1h55min (21.0975km). 
