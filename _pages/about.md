@@ -30,8 +30,8 @@ Now, I have started a new journey (a journey full of glory and dreams) and I bel
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 One paper was aceepted by [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home) (Acc. Rate: 17.5%)
-- *2024.04*: &nbsp;🎉🎉 One paper was aceepted by [ISMB 2024](https://www.iscb.org/ismb2024/home) (Acc. Rate: 18.2%)
+- *2025.04*: &nbsp;🎉🎉 One paper was accepted by [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home) (Acc. Rate: 17.5%)
+- *2024.04*: &nbsp;🎉🎉 One paper was accepted by [ISMB 2024](https://www.iscb.org/ismb2024/home) (Acc. Rate: 18.2%)
 - *2023.07*: &nbsp;🎉🎉 A presentation was made at Northeastern University, Shenyang, China 
 - *2022.09*: &nbsp; A new journey was started in Nankai University, Tianjin, China 
 
