@@ -30,9 +30,10 @@ Now, I have started a new journey (a journey full of glory and dreams) and I bel
 
 
 # 🔥 News
+- *2025.04*: &nbsp;✨🎉: Our new paper (CPMP) is now available on bioRxiv. [preprint link](https://www.biorxiv.org/content/10.1101/2025.04.26.648504v1).        
 - *2025.04*: &nbsp;🎉🎉 One paper was accepted by [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home) (Acc. Rate: 17.5%)
 - *2024.04*: &nbsp;🎉🎉 One paper was accepted by [ISMB 2024](https://www.iscb.org/ismb2024/home) (Acc. Rate: 18.2%)
-- *2023.07*: &nbsp;🎉🎉 A presentation was made at Northeastern University, Shenyang, China 
+- *2023.07*: &nbsp; A presentation was made at Northeastern University, Shenyang, China 
 - *2022.09*: &nbsp; A new journey was started in Nankai University, Tianjin, China 
 
 # 📝 Publications 
@@ -43,7 +44,7 @@ Now, I have started a new journey (a journey full of glory and dreams) and I bel
 [**ISMB/ECCB 2025**]
 **Predicting fine-grained cell types from histology images through cross-modal learning in spatial transcriptomics**    
 **Chaoyang Yan**, Zhihan Ruan, Songkang Chen, Yichen Pan, Xue Han, Yuanyu Li, Jian Liu    
-[[Paper: TBD](https://cyyan.cn/)][[Code](https://github.com/lyotvincent/CUCA)]<img src="https://img.shields.io/github/stars/lyotvincent/CUCA?style=social"/>    
+[[Paper](https://doi.org/10.1093/bioinformatics/btaf201)][[Code](https://github.com/lyotvincent/CUCA)]<img src="https://img.shields.io/github/stars/lyotvincent/CUCA?style=social"/>    
 A cross-modal unified representation learning framework (CUCA) is proposed for identifying fine-grained cell types from histology images. CUCA is trained on paired morphology-molecule spatial transcriptomics data, enabling it to infer fine-grained cell abundances solely from pathology images.   
 </div>
 </div>
