@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About me
 
-I am currently a third-year doctoral student at Centre for Bioinformatics and Intelligent Medicine ([**BioAIMed Lab**](http://bio.nankai.edu.cn/)), Nankai University, supervised by Prof. [Jian Liu](http://bio.nankai.edu.cn/profiles/liu.html). 
+I am currently a fourth-year doctoral student at Centre for Bioinformatics and Intelligent Medicine ([**BioAIMed Lab**](http://bio.nankai.edu.cn/)), Nankai University, supervised by Prof. [Jian Liu](http://bio.nankai.edu.cn/profiles/liu.html). 
 
 My research lies at the intersection of artificial intelligence and healthcare. I mainly focus on computational pathology and multi-omics data analysis. My objective is to develop advanced AI techniques to enhance in-depth cancer research.
 
@@ -30,20 +30,33 @@ Now, I have started a new journey (a journey full of glory and dreams) and I bel
 
 
 # 🔥 News
+- *2025.11*: &nbsp;✨🎉: Our work was published in **Advanced Science** (TOP journal), [DOI: 10.1002/advs.202510307](https://doi.org/10.1002/advs.202510307).    
 - *2025.04*: &nbsp;✨🎉: Our new paper (CPMP) is now available on bioRxiv. [preprint link](https://www.biorxiv.org/content/10.1101/2025.04.26.648504v1).        
-- *2025.04*: &nbsp;🎉🎉 One paper was accepted by [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home) (Acc. Rate: 17.5%)
-- *2024.04*: &nbsp;🎉🎉 One paper was accepted by [ISMB 2024](https://www.iscb.org/ismb2024/home) (Acc. Rate: 18.2%)
-- *2023.07*: &nbsp; A presentation was made at Northeastern University, Shenyang, China 
-- *2022.09*: &nbsp; A new journey was started in Nankai University, Tianjin, China 
+- *2025.04*: &nbsp; One paper was accepted by [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home) (Acc. Rate: 17.5%)    
+- *2024.04*: &nbsp; One paper was accepted by [ISMB 2024](https://www.iscb.org/ismb2024/home) (Acc. Rate: 18.2%)    
+- *2023.07*: &nbsp; A presentation was made at Northeastern University, Shenyang, China   
+- *2022.09*: &nbsp; A new journey was started in Nankai University, Tianjin, China   
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science 2025</div><img src='images/AdvSci_CPMP_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Adv. Sci. 2025**]
+**Predicting MammaPrint Recurrence Risk from Breast Cancer Pathological Images Using a Weakly Supervised Transformer**      
+**Chaoyang Yan\***, Linwei Li\*, Xiaolong Qian\*, Yang Ou, Zhidong Huang, Zhihan Ruan, Wenting Xiang, Hong Liu, Jian Liu       
+[[Paper](https://doi.org/10.1002/advs.202510307)][[Code](https://github.com/lyotvincent/CPMP)]<img src="https://img.shields.io/github/stars/lyotvincent/CPMP?style=social"/>    
+A weakly supervised agent-attention transformer model, CPMP, is developed to predict MP recurrence risk from annotation-free BC histopathological slides. CPMP is further leveraged for spatial and morphological analyses to explore histological patterns associated with MP risk groups. It can provide a flexible supplement for the genomic risk assessment of early BC.     
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMB/ECCB 2025</div><img src='images/ISMB2025_CUCA_main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ISMB/ECCB 2025**]
 **Predicting fine-grained cell types from histology images through cross-modal learning in spatial transcriptomics**    
-**Chaoyang Yan**, Zhihan Ruan, Songkang Chen, Yichen Pan, Xue Han, Yuanyu Li, Jian Liu    
+**Chaoyang Yan**, Zhihan Ruan, Songkang Chen, Yichen Pan, Xue Han, Yuanyu Li, Jian Liu      
 [[Paper](https://doi.org/10.1093/bioinformatics/btaf201)][[Code](https://github.com/lyotvincent/CUCA)]<img src="https://img.shields.io/github/stars/lyotvincent/CUCA?style=social"/>    
 A cross-modal unified representation learning framework (CUCA) is proposed for identifying fine-grained cell types from histology images. CUCA is trained on paired morphology-molecule spatial transcriptomics data, enabling it to infer fine-grained cell abundances solely from pathology images.   
 </div>
@@ -54,7 +67,7 @@ A cross-modal unified representation learning framework (CUCA) is proposed for i
 
 [**ISMB 2024**]
 **PhiHER2: Phenotype-informed weakly supervised model for HER2 status prediction from pathological images**    
-**Chaoyang Yan**, Jialiang Sun, Yiming Guan, Jiuxin Feng, Hong Liu, Jian Liu    
+**Chaoyang Yan**, Jialiang Sun, Yiming Guan, Jiuxin Feng, Hong Liu, Jian Liu      
 [[Paper](https://doi.org/10.1093/bioinformatics/btae236)][[Code](https://github.com/gatsby2016/PhiHER2)]<img src="https://img.shields.io/github/stars/gatsby2016/PhiHER2?style=social"/>    
 PhiHER2 is a phenotype-informed multiple instance learning architecture for the prediction of the HER2 molecular status from pathological images of breast cancer. It provides valuable insights into the heterogeneity of morphological patterns associated with molecular biomarkers.
 </div>
@@ -76,7 +89,7 @@ A deep learning-based framework is devised for comprehensive predictions of mole
 
 [**Magnetic Resonance in Medicine 2022**]
 **Scale- and Slice-aware Net (S2aNet) for 3D segmentation of organs and musculoskeletal structures in pelvic MRI**    
-**Chaoyang Yan**, Jing-Jing Lu, Kang Chen, Lei Wang, Haoda Lu, Li Yu, Mengyan Sun, Jun Xu     
+**Chaoyang Yan\***, Jing-Jing Lu\*, Kang Chen, Lei Wang, Haoda Lu, Li Yu, Mengyan Sun, Jun Xu     
 [[Paper](https://doi.org/10.1002%2Fmrm.28939)][[Code](https://github.com/gatsby2016/Scale-Slice-awareNet)]<img src="https://img.shields.io/github/stars/gatsby2016/Scale-Slice-awareNet?style=social"/>  
 S2aNet is the first model to achieve 3D dense segmentation for 54 organs and musculoskeletal structures in female pelvic MR images. It is an efficient, accurate, and automated segmentation model that can be extended to the 3D digital anatomy for personalized body.    
 </div>
